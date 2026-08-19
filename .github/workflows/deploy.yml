@@ -27,6 +27,8 @@ jobs:
 
       # Enables Pages with "GitHub Actions" as the source if it is not set up yet.
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Install dependencies
         run: npm ci
