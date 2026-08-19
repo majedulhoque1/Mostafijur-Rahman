@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#efeae0"/>
+  <!-- the split ledger, in miniature: swim / bike / run to true proportion -->
+  <rect x="6" y="26" width="5"  height="12" fill="#0d2f35"/>
+  <rect x="11" y="26" width="27" height="12" fill="#c4321c"/>
+  <rect x="38" y="26" width="20" height="12" fill="#16130f"/>
+</svg>

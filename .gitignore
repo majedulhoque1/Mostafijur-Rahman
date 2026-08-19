@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# next build output
+.next/
+.next-build/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# local tooling artefacts
+scripts/_sheets/
+scripts/_manifest.json
+
+# never commit source documents or scratch media
+*.pdf
+*.docx
+*.jpg
+*.jpeg
+!public/img/**
+
+# os / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
